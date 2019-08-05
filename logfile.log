@@ -1,0 +1,88 @@
+2019-08-05 17:32:34,892 INFO  [Logger] Webdriver instantiated 
+2019-08-05 17:32:38,209 INFO  [Logger] implicitly Wait 
+2019-08-05 17:32:44,574 INFO  [Logger] Initialise class com.UI.common.tests.TestCareerPage 
+2019-08-05 17:32:44,605 INFO  [Logger] Verify home page 
+2019-08-05 17:32:44,810 INFO  [Logger] home page : career link 
+2019-08-05 17:32:47,891 INFO  [Logger] Work Page : verify work page 
+2019-08-05 17:32:48,113 INFO  [Logger] CDwindow-D76C8D249DB18B0FB4D3387E43621989 
+2019-08-05 17:32:48,157 INFO  [Logger] CDwindow-0242FC2933312AB3D1A31073152E41A3 
+2019-08-05 17:32:49,236 INFO  [Logger] Job Page : Verify Job Filter page 
+2019-08-05 17:32:49,239 INFO  [Logger] teardown 
+2019-08-05 17:35:51,172 INFO  [Logger] Webdriver instantiated 
+2019-08-05 17:35:54,404 INFO  [Logger] implicitly Wait 
+2019-08-05 17:35:55,277 INFO  [Logger] Initialise class com.UI.common.tests.TestCareerPage 
+2019-08-05 17:35:59,368 INFO  [Logger] teardown 
+2019-08-05 17:38:16,399 INFO  [Logger] Webdriver instantiated 
+2019-08-05 17:38:19,716 INFO  [Logger] implicitly Wait 
+2019-08-05 17:38:25,634 INFO  [Logger] Initialise class com.UI.common.tests.TestCareerPage 
+2019-08-05 17:38:25,667 INFO  [Logger] Verify home page 
+2019-08-05 17:38:25,928 INFO  [Logger] home page : career link 
+2019-08-05 17:38:25,988 INFO  [Logger] closed Window CDwindow-EE6CE7F2BDE6CF1E6BE6326F8227CE64 
+2019-08-05 17:38:26,186 INFO  [Logger] New Window CDwindow-291D5B75CCB3803FBF38267371429317 
+2019-08-05 17:38:28,606 INFO  [Logger] Work Page : verify work page 
+2019-08-05 17:38:28,898 INFO  [Logger] closed Window CDwindow-291D5B75CCB3803FBF38267371429317 
+2019-08-05 17:38:28,965 INFO  [Logger] New Window CDwindow-0403076C3058EF8841854C9A3543A6B7 
+2019-08-05 17:38:30,056 INFO  [Logger] Job Page : Verify Job Filter page 
+2019-08-05 17:38:30,060 INFO  [Logger] teardown 
+2019-08-05 18:03:31,052 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:03:34,369 INFO  [Logger] implicitly Wait 
+2019-08-05 18:03:36,959 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilter 
+2019-08-05 18:03:36,996 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:03:37,379 INFO  [Logger] Select City 
+2019-08-05 18:03:37,436 INFO  [Logger] Total job Posts:: 18 
+2019-08-05 18:03:37,441 INFO  [Logger] teardown 
+2019-08-05 18:04:24,032 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:04:27,353 INFO  [Logger] implicitly Wait 
+2019-08-05 18:04:29,899 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilter 
+2019-08-05 18:04:29,936 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:04:30,314 INFO  [Logger] Select City 
+2019-08-05 18:04:30,364 INFO  [Logger] teardown 
+2019-08-05 18:06:46,785 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:06:50,211 INFO  [Logger] implicitly Wait 
+2019-08-05 18:06:53,065 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilterTeam 
+2019-08-05 18:06:53,092 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:06:53,666 INFO  [Logger] City Selected 
+2019-08-05 18:06:53,947 INFO  [Logger] Team Selected 
+2019-08-05 18:06:53,988 INFO  [Logger] Total job Posts:: 7 
+2019-08-05 18:06:53,991 INFO  [Logger] teardown 
+2019-08-05 18:09:42,894 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:09:46,300 INFO  [Logger] implicitly Wait 
+2019-08-05 18:09:48,985 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilterTeam 
+2019-08-05 18:09:49,009 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:09:49,383 INFO  [Logger] City Selected 
+2019-08-05 18:09:59,484 INFO  [Logger] teardown 
+2019-08-05 18:10:42,854 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:10:46,121 INFO  [Logger] implicitly Wait 
+2019-08-05 18:10:48,703 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilterTeam 
+2019-08-05 18:10:48,736 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:10:49,108 INFO  [Logger] City Selected 
+2019-08-05 18:10:49,518 INFO  [Logger] Team Selected 
+2019-08-05 18:10:49,586 INFO  [Logger] Total job Posts:: 7 
+2019-08-05 18:10:49,589 INFO  [Logger] teardown 
+2019-08-05 18:11:28,698 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:11:32,026 INFO  [Logger] implicitly Wait 
+2019-08-05 18:11:34,562 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilterTeam 
+2019-08-05 18:11:34,587 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:11:34,935 INFO  [Logger] City Selected 
+2019-08-05 18:11:35,207 INFO  [Logger] Team Selected 
+2019-08-05 18:11:35,269 INFO  [Logger] Total job Posts:: 7 
+2019-08-05 18:11:35,997 INFO  [Logger] teardown 
+2019-08-05 18:11:36,021 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:11:38,345 INFO  [Logger] implicitly Wait 
+2019-08-05 18:11:44,196 INFO  [Logger] Initialise class com.UI.common.tests.TestCareerPage 
+2019-08-05 18:11:44,211 INFO  [Logger] Verify home page 
+2019-08-05 18:11:44,468 INFO  [Logger] home page : career link 
+2019-08-05 18:11:44,531 INFO  [Logger] closed Window CDwindow-2D4C55607609DF179C8763E47176F3B7 
+2019-08-05 18:11:44,748 INFO  [Logger] New Window CDwindow-CB3C6F9037D6B68231786BD3DB9A4346 
+2019-08-05 18:11:47,136 INFO  [Logger] Work Page : verify work page 
+2019-08-05 18:11:47,434 INFO  [Logger] closed Window CDwindow-CB3C6F9037D6B68231786BD3DB9A4346 
+2019-08-05 18:11:47,502 INFO  [Logger] New Window CDwindow-7B8F2C6A8F4D7923CF49DAA7471B0EBC 
+2019-08-05 18:11:48,584 INFO  [Logger] Job Page : Verify Job Filter page 
+2019-08-05 18:11:49,282 INFO  [Logger] teardown 
+2019-08-05 18:11:49,324 INFO  [Logger] Webdriver instantiated 
+2019-08-05 18:11:51,718 INFO  [Logger] implicitly Wait 
+2019-08-05 18:11:54,116 INFO  [Logger] Initialise class com.UI.common.tests.TestJobFilter 
+2019-08-05 18:11:54,133 INFO  [Logger] Verify Job Filter page 
+2019-08-05 18:11:54,468 INFO  [Logger] Select City 
+2019-08-05 18:11:54,529 INFO  [Logger] Total job Posts:: 18 
+2019-08-05 18:11:55,234 INFO  [Logger] teardown 
